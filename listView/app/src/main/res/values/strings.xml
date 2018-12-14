@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">listView</string>
+
+    <string-array name="equipes">
+        <item>Mercedes</item>
+        <item>Ferrari</item>
+        <item>RBR</item>
+        <item>Williams</item>
+        <item>STR</item>
+        <item>Mercedes</item>
+        <item>Ferrari</item>
+        <item>RBR</item>
+        <item>Williams</item>
+        <item>STR</item>
+        <item>Mercedes</item>
+        <item>Ferrari</item>
+        <item>RBR</item>
+        <item>Williams</item>
+        <item>STR</item>
+
+    </string-array>
+</resources>
